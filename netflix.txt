@@ -1,3 +1,7 @@
+netflix.com
+nflxso.net
+nflxext.com
+nflximg.com
 .netflix.com
 .nflxso.net
 .nflxext.com
