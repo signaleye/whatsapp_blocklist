@@ -6,13 +6,4 @@ appboot.netflix.com
 ichnaea.netflix.com
 customerevents.netflix.com
 nrdp.nccp.netflix.com
-netflix.com/cw
-netflix.com
-nflxso.net
-nflxext.com
-nflximg.com
-.netflix.com
-.nflxso.net
-.nflxext.com
-.nflximg.com
-api-tv.spotify.com
+
