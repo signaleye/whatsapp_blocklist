@@ -6,4 +6,6 @@ appboot.netflix.com
 ichnaea.netflix.com
 customerevents.netflix.com
 nrdp.nccp.netflix.com
-
+netflix.com
+.netflix.com
+netflix.com/cw
