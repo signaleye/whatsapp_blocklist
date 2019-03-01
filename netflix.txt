@@ -1,3 +1,11 @@
+# Netflix
+# secure, api-global, and appboot break Netflix
+secure.netflix.com                   
+api-global.netflix.com
+appboot.netflix.com
+ichnaea.netflix.com
+customerevents.netflix.com
+nrdp.nccp.netflix.com
 netflix.com/cw
 netflix.com
 nflxso.net
@@ -7,3 +15,4 @@ nflximg.com
 .nflxso.net
 .nflxext.com
 .nflximg.com
+api-tv.spotify.com
