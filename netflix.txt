@@ -1,3 +1,4 @@
+.netflix.com
 .nflxso.net
 .nflxext.com
 .nflximg.com
