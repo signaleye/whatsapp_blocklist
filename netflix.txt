@@ -1,6 +1,4 @@
 netflix.com
-www.netflix.com
-netflix.com/cw
 secure.netflix.com                   
 api-global.netflix.com
 appboot.netflix.com
