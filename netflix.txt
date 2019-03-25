@@ -1,11 +1,10 @@
-# Netflix
-# secure, api-global, and appboot break Netflix
+
+netflix.com
+.netflix.com
+netflix.com/cw
 secure.netflix.com                   
 api-global.netflix.com
 appboot.netflix.com
 ichnaea.netflix.com
 customerevents.netflix.com
 nrdp.nccp.netflix.com
-netflix.com
-.netflix.com
-netflix.com/cw
